@@ -1,0 +1,9 @@
+04:59:17.660 [main] INFO  satz.test - Driver got invoked
+04:59:21.431 [main] INFO  satz.test - URL launched
+04:59:56.015 [main] INFO  satz.test - validated a data
+05:00:05.176 [main] INFO  satz.test - Driver got invoked
+05:00:10.505 [main] INFO  satz.test - URL launched
+05:00:34.588 [main] INFO  satz.test - validated a data
+05:00:44.366 [main] INFO  satz.textvalidation - checked
+05:00:44.369 [main] ERROR satz.textvalidation - faikled title
+05:00:53.340 [main] INFO  satz.navigationbar - navigationbar check done

@@ -1,0 +1,6 @@
+pageobjects\qaclickhome.class
+pageobjects\loginpage.class
+pageobjects\forgotpassword.class
+resources\base.class
+resources\ExtentReportedNG.class
+pageobjects\mainpage.class

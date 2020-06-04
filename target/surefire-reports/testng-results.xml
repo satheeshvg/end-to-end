@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-01T04:59:11 IST" name="Suite" finished-at="2020-06-01T05:00:57 IST" duration-ms="105899">
+    <groups>
+    </groups>
+    <test started-at="2020-06-01T04:59:11 IST" name="Test1" finished-at="2020-06-01T05:00:34 IST" duration-ms="83268">
+      <class name="satz.test">
+        <test-method signature="pagenavigation(java.lang.String, java.lang.String)[pri:0, instance:satz.test@6e6d5d29]" started-at="2020-06-01T04:59:11 IST" name="pagenavigation" data-provider="getdata" finished-at="2020-06-01T04:59:59 IST" duration-ms="47672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kjbhkhjb@khkhbg.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagenavigation -->
+        <test-method signature="pagenavigation(java.lang.String, java.lang.String)[pri:0, instance:satz.test@6e6d5d29]" started-at="2020-06-01T04:59:59 IST" name="pagenavigation" data-provider="getdata" finished-at="2020-06-01T05:00:34 IST" duration-ms="35493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kjbhkhjb@khkhbg.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagenavigation -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:satz.test@6e6d5d29]" started-at="2020-06-01T05:00:34 IST" name="closing" finished-at="2020-06-01T05:00:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- satz.test -->
+    </test> <!-- Test1 -->
+    <test started-at="2020-06-01T05:00:35 IST" name="Test2" finished-at="2020-06-01T05:00:44 IST" duration-ms="9351">
+      <class name="satz.textvalidation">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:satz.textvalidation@5c18016b]" started-at="2020-06-01T05:00:35 IST" name="initialization" finished-at="2020-06-01T05:00:43 IST" duration-ms="8333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="checkheader()[pri:0, instance:satz.textvalidation@5c18016b]" started-at="2020-06-01T05:00:43 IST" name="checkheader" finished-at="2020-06-01T05:00:44 IST" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkheader -->
+        <test-method signature="checktitle()[pri:0, instance:satz.textvalidation@5c18016b]" started-at="2020-06-01T05:00:44 IST" name="checktitle" finished-at="2020-06-01T05:00:44 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktitle -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:satz.textvalidation@5c18016b]" started-at="2020-06-01T05:00:44 IST" name="closing" finished-at="2020-06-01T05:00:44 IST" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- satz.textvalidation -->
+    </test> <!-- Test2 -->
+    <test started-at="2020-06-01T05:00:44 IST" name="Test3" finished-at="2020-06-01T05:00:57 IST" duration-ms="12559">
+      <class name="satz.navigationbar">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:satz.navigationbar@7c098bb3]" started-at="2020-06-01T05:00:44 IST" name="initialization" finished-at="2020-06-01T05:00:53 IST" duration-ms="8140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="checknavigationbar()[pri:0, instance:satz.navigationbar@7c098bb3]" started-at="2020-06-01T05:00:53 IST" name="checknavigationbar" finished-at="2020-06-01T05:00:53 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checknavigationbar -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:satz.navigationbar@7c098bb3]" started-at="2020-06-01T05:00:53 IST" name="closing" finished-at="2020-06-01T05:00:57 IST" duration-ms="4135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- satz.navigationbar -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>
