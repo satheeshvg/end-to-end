@@ -5,12 +5,21 @@
 <listener class-name="satz.listeners"/>
 
 </listeners>
-   
+   <test name="Test1">
+  <classes>
+  <class name="satz.navigationbar"/>
+  </classes>
+  </test> 
  
 
  <test name="Test2">
   <classes>
   <class name="satz.textvalidation"/>
+  </classes>
+  </test>
+   <test name="Test3">
+  <classes>
+  <class name="satz.test"/>
   </classes>
   </test>
    
